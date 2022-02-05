@@ -20,4 +20,4 @@ a.k.a.
 - isChromate on Twitch, Twitter
 - CrO4 2-#0010 on discord
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
+![BOJ](http://mazandi.herokuapp.com/api?handle=hjroh0315&theme=warm)
