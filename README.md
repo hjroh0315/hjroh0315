@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hjroh0315/hjroh0315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Matthew Roh
+a.k.a.
+- hjroh0315 on BOJ
+- chromate00 on CF, Atcoder
+- isChromate on Twitch, Twitter
+- CrO4 2-#0010 on discord
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
