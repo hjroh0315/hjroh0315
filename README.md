@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 ### Matthew Roh
 a.k.a.
 - hjroh0315 on BOJ
-- chromate00 on CF, Atcoder
-- isChromate on Twitch, Twitter
-- CrO4 2-#0010 on discord
+- chromate00 on CF, AtCoder
+- hj_roh on Discord 
 
 ![BOJ](http://mazandi.herokuapp.com/api?handle=hjroh0315&theme=warm)
